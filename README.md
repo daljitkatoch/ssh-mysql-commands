@@ -1,6 +1,6 @@
 # SSH Mysql Commands
 
-##Mysql Commands (To create db, create user and  grant all privileges to user) 
+## Mysql Commands (To create db, create user and  grant all privileges to user) 
 
 01. CREATE DATABASE dbname;
 
