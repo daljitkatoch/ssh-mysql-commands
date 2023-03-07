@@ -18,7 +18,7 @@
 
 08. Import db command: mysql -u username -p dbname < filename.sql
 
-09. Export db command: mysql -u username -p dbname > filename.sql
+09. Export db command: mysqldump -u username -p dbname > filename.sql
 
 10. Next Steps To Change db user password
 
